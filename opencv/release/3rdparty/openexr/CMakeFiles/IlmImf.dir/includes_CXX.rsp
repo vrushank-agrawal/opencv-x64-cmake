@@ -1,0 +1,1 @@
+-IC:/opencv/release/3rdparty/openexr -IC:/opencv/sources/3rdparty/openexr/IlmImf -IC:/opencv/sources/3rdparty/openexr/Imath -IC:/opencv/sources/3rdparty/openexr/IlmThread -IC:/opencv/sources/3rdparty/openexr/Iex -IC:/opencv/sources/3rdparty/openexr/Half -IC:/opencv/release/3rdparty/zlib -IC:/opencv/sources/3rdparty/zlib -isystem C:/opencv/release

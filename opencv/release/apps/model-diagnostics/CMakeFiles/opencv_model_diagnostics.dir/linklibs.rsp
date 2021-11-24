@@ -1,0 +1,1 @@
+ ../../lib/libopencv_dnn454.dll.a ../../lib/libopencv_imgproc454.dll.a ../../lib/libopencv_core454.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,1 @@
+-IC:/opencv/sources/modules/video/include -IC:/opencv/release/modules/video -IC:/opencv/sources/modules/core/include -IC:/opencv/sources/modules/flann/include -IC:/opencv/sources/modules/imgproc/include -IC:/opencv/sources/modules/dnn/include -IC:/opencv/sources/modules/features2d/include -IC:/opencv/sources/modules/calib3d/include -isystem C:/opencv/release

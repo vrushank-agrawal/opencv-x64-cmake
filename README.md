@@ -1,0 +1,1 @@
+# opencv-mingw814-cmake-config

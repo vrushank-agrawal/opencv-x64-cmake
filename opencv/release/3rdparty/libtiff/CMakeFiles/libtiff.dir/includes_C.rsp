@@ -1,0 +1,1 @@
+-IC:/opencv/release/3rdparty/zlib -IC:/opencv/sources/3rdparty/zlib -IC:/opencv/release/3rdparty/libtiff -IC:/opencv/sources/3rdparty/libtiff -IC:/opencv/release/3rdparty/libjpeg-turbo -IC:/opencv/sources/3rdparty/libjpeg-turbo/src -isystem C:/opencv/release
